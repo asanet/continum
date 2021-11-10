@@ -16,4 +16,4 @@ Toolbox for dynamic analysis of DAEs.
         
     - Add the Continum directory with the Aux folder to your Matlab path
     
-    - Open the file 'example01.mlx' and run it. All the features of Continum is presented and discussed in those '.mlx' files.
+    - Open the file 'example_01.mlx' and run it. All the features of Continum is presented and discussed in those '.mlx' files.
